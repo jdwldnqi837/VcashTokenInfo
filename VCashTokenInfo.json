@@ -1,7 +1,7 @@
 [
 {
 	"TokenId":"6d0f34348416eacc2402c6dc0bc1330460e09c3b748d7c7bd0bb053d4afaa7b1",
-	"Name":"GenesisToken",
+	"Name":"VGT",
 	"FullName":"VCashGenesisToken",
 	"BriefInfo":"The first token on VCash chain",
 	"DetailInfoUrl":"https://v.cash",
