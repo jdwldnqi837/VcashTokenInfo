@@ -1,18 +1,10 @@
 [
 {
-	"TokenId":"6d0f34348416eacc2402c6dc0bc1330460e09c3b748d7c7bd0bb053d4afaa7b1",
+	"TokenId":"45929e0194da248c7ddf9993b8b1e288e6ec57ef4590734c994fa125d9b3b9b8",
 	"Name":"VGT",
 	"FullName":"VCashGenesisToken",
 	"BriefInfo":"The first token on VCash chain",
 	"DetailInfoUrl":"https://v.cash",
 	"IconName":"VGT.jpeg"
-},
-{
-	"TokenId":"ba1ee78465890180313abe670bee866a393688fdc40512692b3751fe5180e229",
-	"Name":"TestToken0",
-	"FullName":"VCashGenesisToken",
-	"BriefInfo":"The first token on VCash chain",
-	"DetailInfoUrl":"https://v.cash",
-	"IconName":"TestToken0.png"
 },
 ]
